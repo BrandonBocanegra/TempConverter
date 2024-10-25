@@ -1,8 +1,8 @@
 //*******************************************************************
 // BBTempConverter.java           Author:Brandon Bocanegra
 //
-// Chapter 2 Assignment TempConverter
-// Due 9/17/23
+// 
+// 
 // Writes a program that converts Fahrenheit to Celsius
 //*******************************************************************
 import java.util.Scanner;
